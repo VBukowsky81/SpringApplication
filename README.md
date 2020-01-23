@@ -5,7 +5,7 @@ Hello, everyone!
 
 I wanted to present this great example, in my opinion, of a basic Enterprise level Spring application, dependency injection and generally Spring Data. Dependency injection sounds really cool, and it IS actually cool. DI is really hard to describe, and I have not heard a good enough SHORT description of it. 
 
-I would say, DI are ways to inject yourself into object creation process. Why do this? Because you can insert/inject all sorts of data automatically/from external sources, for example, before object is created. This DECOUPLES object creation process, and gives you ways to automate it. 
+I would say, DI are ways to inject yourself into object creation process. Why do this? Because you can insert/inject all sorts of data automatically/from external sources, for example, before object is created. This DECOUPLES object creation process, and gives you ways to automate it, manage it, generally gives a way to work with it. 
 
 There are 3 types of dependency injection - constructor, setters/getters and interface. All these are part of core language mechanics, simply neat ways to work with basic language toolset. Constructor injection, for example, makes use of ability to set states at object creation, with a constructor. Constructor values can then be set independently of the object creation process itself.
 
