@@ -7,7 +7,7 @@ I wanted to present this great example, in my opinion, of a basic Enterprise lev
 
 I would say, DI are ways to inject yourself into object creation process. Why do this? Because you can insert/inject all sorts of data automatically/from external sources, for example, before object is created. Or directly after. This DECOUPLES object creation process, and gives you ways to automate it, manage it, generally gives a way to work with it. 
 
-There are 3 types of dependency injection - constructor, setters/getters and interface. But Spring only uses 2 - constructor and setters. All these are part of core language mechanics, simply neat ways to work with basic language toolset. Constructor injection, for example, makes use of ability to set states at object creation, with a constructor. Constructor values can then be set independently of the object creation process itself.
+Spring uses two types of DI - constructor and setters. All these are part of core language mechanics, simply neat ways to work with basic language toolset. Constructor injection, for example, makes use of ability to set states at object creation, with a constructor. Constructor values can then be set independently of the object creation process itself.
 
 I am still rather new to this huge area of depenedency injection subject matter.
 
