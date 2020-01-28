@@ -13,7 +13,7 @@ I am still rather new to this huge area of depenedency injection subject matter.
 
 The idea here is great, if I fully understand it. Mass production of objects, with externally sourced inputs. Profiles, environment variables, special annotations, etc. And there are many more applications, I am sure.
 
-I am not taking credit for this work, but I would have build this example in a similar way. There is a general template to this anyway.
+I am not taking credit for this work, but I would have build this example in a similar way. There is a general template to this anyway, meaning that standard setups are going to be nearly identical.
 
 Best Regards,
 
