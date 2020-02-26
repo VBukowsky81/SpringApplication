@@ -3,6 +3,9 @@ Spring, Dependency Injection, JPA
 
 Hello, everyone!
 
+PS. Now a month later, I would rewrite this description completely. But I am too lazy. Turns out Spring implements ALL creational design patters. And dependency injection is not even officially a design pattern, though it technically is. Learning lots.
+
+Earlier description:
 I wanted to present this great example, in my opinion, of a basic Enterprise level Spring application, dependency injection and generally Spring Data. Dependency injection sounds really cool, and it IS actually cool. DI is really hard to describe, and I have not heard a good enough SHORT description of it. 
 
 I would say, DI are ways to inject yourself into object creation process. Why do this? Because you can insert/inject all sorts of data automatically/from external sources, for example, before object is created. Or directly after. This DECOUPLES object creation process, and gives you ways to automate it, manage it, generally gives a way to work with it. 
