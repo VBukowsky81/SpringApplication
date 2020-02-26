@@ -14,9 +14,9 @@ Spring uses two types of DI - constructor and setters. All these are part of cor
 
 I am still rather new to this huge area of depenedency injection subject matter.
 
-The idea here is great, if I fully understand it. Mass production of objects, with externally sourced inputs. Profiles, environment variables, Spring expressions(SpEL), etc. And there are many more applications, I am sure. Like scripting languages, for example.
+The idea here is great. Mass production of objects, with externally sourced inputs. Profiles, environment variables, Spring expressions(SpEL), etc. And there are many more applications, I am sure. Like scripting languages, for example.
 
-I am not taking credit for this work, but I would have build this example in a similar way. There is a general template to this anyway, meaning that standard setups are going to be nearly identical.
+I am not taking credit for this work, but I would have build this example in a similar way. There is a general template to this, meaning that standard setups are going to be very similar.
 
 Best Regards,
 
